@@ -1,5 +1,5 @@
 # testGit
-注意每次上传只选择自己做修改的文件，并添加描述
+注意每次上传只选择自己做修改的文件，并添加描述。每次提交之前都要pull
 //team->add index	添加到暂存区
 //team->commit	提交
 //git->添加忽略.gitigore
